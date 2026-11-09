@@ -1,0 +1,60 @@
+
+
+===== PAGE 1 =====
+
+Supporting Information
+Pederson et al. 10.1073/pnas.1318677111
+Fig. S1. Biplot of annual self-calibrated Palmer Drought Severity Index (scPDSI) (1) and reconstructed temperature anomalies (2) from 900 to 2009. High-
+lighted periods include 1180 –1190 drought (magenta open circles), the Mongol Pluvial (blue triangles), and the 21st-century drought (orange diamonds).
+1. Van der Schrier G, Barichivich J, Briffa KR, Jones PD (2013) A scPDSI-based global dataset of dry and wet spells for 1901-2009. J Geophys Res Atmospheres 118(10):4025–4048.
+2. Cook ER, et al. (2013) Tree-ring reconstructed summer temperature anomalies for temperate East Asia since 800 C.E. Clim Dyn 41(11-12):2957–2972.
+Fig. S2. Recent trends in summer temperature for central Mongolia ( Top) based on Climatic Research Unit (CRU) land surface air temperature dataset version
+4 (bounding box 48 –52°N, 88 –120°E) (black line) and reconstructed temperature in central Mongolia from 442 annual tree-ring chronologies (blue line)
+(Middle). Reconstructed temperature in central Mongolia (same as Top) here from 900 to 2009 CE and inferred temperature from one temperature-sensitive
+tree-ring site in central Mongolia (1) ( Bottom). Red lines are 20-y splines.
+1. Jones PD, et al. (2012) Hemispheric and large-scale land surface air temperature variations: An extensive revision and an update to 2010. J Geophys Res , 10.1029/2011JD017139.
+2. Cook ER, et al. (2013) Tree-ring reconstructed summer temperature anomalies for temperate East Asia since 800 C.E. Clim Dyn 41(11-12):2957–2972.
+3. D ’Arrigo RD, et al. (2001) 1738 years of Mongolian temperature variability inferred from a tree-ring width chronology of Siberian pine. Geophys Res Lett 28(3):543–546.
+Pederson et al. www.pnas.org/cgi/content/short/1318677111 1o f5
+
+===== PAGE 2 =====
+
+Fig. S3. Gridded growing season average monthly temperature [June, July, and August, CRU Time Series 3.10 0.5° (1)] and growing total season precipitation
+[June, July, August, and September, CRU TS 3.10.01 0.5° (1)] in north central Mongolia (bounding box 48 –52°N, 88–120°E) with extreme temperatures of 1999 –
+2008 labeled. Points are colored yellow to red by year.
+1. Harris I, Jones PD, Osborn TJ, Lister DH (2013) Updated high-resolution grids of monthly climatic observations – the CRU TS3.10 Dataset. Int J Climatol , 10.1002/joc.3711.
+Pederson et al. www.pnas.org/cgi/content/short/1318677111 2o f5
+
+===== PAGE 3 =====
+
+Fig. S4. Non strip-bark (with pith) ( A) and strip-bark ( B) regional curve standardization (RCS) curves. RCS aligns the inner ring date of all samples yielding
+typical radial growth patterns for a site, or in this case a subset of trees at a site. Ring index curves are the solid black lines, whereas the dashed blac k lines
+represent sample depth.
+Pederson et al. www.pnas.org/cgi/content/short/1318677111 3o f5
+
+===== PAGE 4 =====
+
+Fig. S5. Comparison of strip-bark (orange) and non strip-bark (blue) chronologies from 900 to 1500 CE, where sample depth for both portions of our total
+collection is relatively stable.
+Fig. S6. Khorgo Lava pine chronology ( Top): the blue curve is the annual record, the red curve is a 20-y spline of the annual record, and the mean is
+a horizontal dashed black line. Sample depth ( Bottom) is the solid black curve. A sample depth of 25 series is represented by the black and horizontal dash-
+dotted line. Two measures of signal strength through time, expressed population signal (EPS) and the mean rbar, are posted at the top right. Note the am ount
+of white under the curve during the Mongol Pluvial of the early 1200s. It is the only pluvial since 900 CE with this structure, a structure lacking an annu al value
+below the mean.
+Pederson et al. www.pnas.org/cgi/content/short/1318677111 4o f5
+
+===== PAGE 5 =====
+
+Fig. S7. Relationship between scPDSI (1) and tree-ring index 1959 –2009.
+1. Van der Schrier G, Barichivich J, Briffa KR, Jones PD (2013) A scPDSI-based global dataset of dry and wet spells for 1901-2009. J Geophys Res Atmospheres 118(10):4025–4048.
+Table S1. Calibration –validation statistics for linear model
+predicting May –September scPDSI from the KLP tree-ring
+chronology
+1959–1984 1985 –2009 1959 –2009
+Calib.–Valid. Statistics Calib. Valid. Calib. Valid. Full period
+Pearson r 0.755 0.701 0.755 0.701 0.747
+RE 0.570 0.593 0.491 0.624 –
+CE 0.570 0.361 0.491 0.362 –
+Calib., calibration; CE, coefficient of efficiency; RE, reduction of error;
+Valid., validation. Durbin –Watson Stat = 1.1049.
+Pederson et al. www.pnas.org/cgi/content/short/1318677111 5o f5

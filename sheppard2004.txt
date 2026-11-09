@@ -1,0 +1,1216 @@
+
+
+===== PAGE 1 =====
+
+P. R. Sheppard Æ P. E. Tarasov Æ L. J. Graumlich
+K.-U. Heussner Æ M. Wagner Æ H. O¨sterle
+L. G. Thompson
+Annual precipitation since 515 BC reconstructed from living and fossil
+juniper growth of northeastern Qinghai Province, China
+Received: 11 March 2004 / Accepted: 31 August 2004 / Published online: 4 November 2004
+/C211 Springer-Verlag 2004
+Abstract Annual precipitation for the last 2,500 years
+was reconstructed for northeastern Qinghai from living
+and archaeological juniper trees. A dominant feature of
+the precipitation of this area is a high degree of vari-
+ability in mean rainfall at annual, decadal, and centen-
+nial scales, with many wet and dry periods that are
+corroborated by other paleoclimatic indicators. Recon-
+structed values of annual precipitation vary mostly from
+100 to 300 mm and thus are no diﬀerent from the
+modern instrumental record in Dulan. However, rela-
+tively dry years with below-average precipitation oc-
+curred more frequently in the past than in the present.
+Periods of relatively dry years occurred during 74–25
+BC, AD 51–375, 426–500, 526–575, 626–700, 1100–
+1225, 1251–1325, 1451–1525, 1651–1750 and 1801–1825.
+Periods with a relatively wet climate occurred during AD
+376–425, 576–625, 951–1050, 1351–1375, 1551–1600 and
+the present. This variability is probably related to
+latitudinal positions of winter frontal storms. Another
+key feature of precipitation in this area is an apparently
+direct relationship between interannual variability in
+rainfall with temperature, whereby increased warming in
+the future might lead to increased ﬂooding and
+droughts. Such increased climatic variability might then
+impact human societies of the area, much as the climate
+has done for the past 2,500 years.
+1 Introduction
+Reconstructing climate is useful for understanding past
+climatic changes, for evaluating present conditions in the
+long-term context of the past, and for projecting future
+climate scenarios (Bradley 1985; Briﬀa and Osborn
+1999). Geographical regions of particular interest in the
+study of global climate change are those where processes
+may reﬂect global-scale atmospheric conditions and
+circulation systems; China is one such region where the
+climate reﬂects that of Asia and even of Europe (Gao
+and Li 1980). For example, temperature trends from
+1880 to 1980 for eastern China match well the temper-
+ature trends averaged over the Northern Hemisphere
+land areas (Bradley et al. 1987). In particular, the
+Qinghai–Tibetan Plateau interacts with subcontinental
+to hemispheric climate processes (Lin and Wu 1987; Gao
+et al. 1981; Lau and Li 1984; He et al. 1987). Indeed, the
+Qinghai–Tibetan Plateau profoundly inﬂuences the cli-
+mate of China and much of eastern Asia because of its
+enormous size and height into the troposphere (Zou
+1987). Therefore, paleoclimatic study of the Qinghai–
+Tibetan Plateau is especially fruitful for understanding
+the climate on subhemispheric scales.
+A diﬃculty in analyzing relationships between the
+climate of the Qinghai–Tibetan Plateau and large-scale
+climate patterns is the lack of long meteorological re-
+cords in western China: there are no continuous mete-
+orological records from China west of 100 /C176E before
+P. R. Sheppard Æ L. J. Graumlich
+Laboratory of Tree-Ring Research, University of Arizona,
+Tucson, AZ, 85721, USA
+P. E. Tarasov ( &)
+Potsdam Department,
+Alfred-Wegener-Institute for Polar and Marine Research,
+Telegrafenberg A43, Potsdam, 14473, Germany
+E-mail: paveltarasov@mail.ru
+Tel.: +49-331-2882113
+Fax: +49-331-2882137
+K.-U. Heussner Æ M. Wagner
+Department of Eurasian Archaeology,
+German Archaeological Institute,
+House 2, Im Dol 2-6, Berlin, 14195, Germany
+H. O¨ sterle
+Potsdam Institute for Climate Impact Research,
+Telegrafenberg, P. O. Box 60 12 03, Potsdam, 14412, Germany
+L. G. Thompson
+Byrd Polar Research Center, The Ohio State University,
+Columbus, OH, 43210, USA
+Present address : L. J. Graumlich
+Big Sky Institute, University of Montana,
+Bozeman, MT, 59717, USA
+Climate Dynamics (2004) 23: 869–881
+DOI 10.1007/s00382-004-0473-2
+
+===== PAGE 2 =====
+
+1950. To extend climate investigations back beyond
+1950, natural and/or documentary archives of climate
+must be used. High-resolution climate archives of the
+late Holocene are especially critical because recent cli-
+mate variation is highly relevant to human society
+(Thompson et al. 1993).
+Tree-ring records are important sources of paleocli-
+matic information on annual to centennial scales, (e.g.,
+Fritts 1976; Cook and Kairiukstis 1990; Schweingruber
+1996) and are integrated worldwide into research on glo-
+bal change (Bradley 1989). There has been much den-
+droclimatic research done in China (e.g., Zheng et al.
+1982; Wu et al. 1987; Wu and Zhan 1991; Wu 1992;
+Hughes et al. 1994; Bra¨ uning 1994, 1999, 2001, 2003), but
+the density of tree-ring research in Qinghai Province is still
+low and reconstructions of hydrometeorological param-
+eters are notably rare (e.g., Yuan 2003; Zhang et al. 2003).
+Accordingly, the objectives of this research were (1) to
+reconstruct the climate of northeastern Qinghai from
+living trees for the purpose of linking the climate there to
+the regional variation in climate and with the hemispheric-
+scale atmospheric circulation, and (2) to extend the living-
+tree reconstruction further back to 500 BC using archae-
+ological specimens excavated from tombs of the Tubo
+kingdom in Dulan County, northeastern Qinghai Prov-
+ince (Wagner et al. 2002). With the combined climate
+reconstruction, human–climate interactions through
+multimillennia can be analyzed to better understand the
+cultural responses to the climatic variability of the area.
+2 Methods
+2.1 Field and archeological sites
+The living-tree sampling sites are located in the montane
+forest steppe belt above 3,000 m elevation (Zhao 1986)
+of northeastern Qinghai (Fig. 1). Natural vegetation is
+sparse, with rare forest stands of widely spaced juniper
+(Sabina przewalskii Kom.) growing on steep, south-fac-
+ing slopes (Richardson 1990). Stands near the towns of
+Shenge (37.0 /C176N, 98.5 /C176E, 3,800 m elevation) and Dulan
+(36.0/C176N, 98.0 /C176E, 3,800 m elevation) were selected for
+study (Fig. 1). From a cursory pedological survey, it was
+observed that the soils are generally shallow (<0.5 m
+deep), light brown to yellow in color, silty-loamy in
+texture with weak granular structure, and poor in
+organic matter.
+According to meteorological records from Dulan
+(36/C17617.46¢N, 98 /C1764.44¢E, 3,200 m elevation, continuous
+data extending from 1955 to 1993), this area is cold and
+semiarid (Lin and Wu 1981). The mean annual tem-
+perature is +3 /C176C with a January average of /C010/C176C and
+a July average of +15 /C176C (Fig. 2a), and the mean annual
+precipitation is 188 mm, 78% of which falls from May
+through September (Fig. 2b). Coeﬃcients of variation of
+monthly rainfall are very high for winter, averaging 95%
+for November through February, but lower for summer,
+averaging 65% for May through September.
+The sites with archaeological wood are located in
+mountain valleys south of Dulan (Fig. 1). Between 1982
+and 1999, large tombs that are thought to be remains
+from the time of the Tubo (Tufan) kingdom were sur-
+veyed, registered, and partly excavated. As these tombs
+had been disturbed, a clear cultural context is diﬃcult to
+assign, and the accompanying writings have not been
+interpreted yet. Undisturbed textile fragments show
+distinct technical features and decorative patterns of
+Chinese as well as central or western Asian origin (Xu
+and Zhao 1996). Though no age determination of the
+tomb construction has yet been reported based on
+radiocarbon or dendrochronological dating of the juni-
+per wood, the textiles provide some chronological
+information by which the tombs have been dated
+Dulan
+XINING
+.
+102°E98°E96°E
+04 0 80 km
+Q A I D A M
+P E N D I
+Qi nghai Hu Qinghai Nan
+Da t o n g
+Sh a n
+B u r h a n B u d a i S h a n
+SH
+A N
+Lenglong
+KUNLUN SHAN
+. . 4491
+.
+5202.
+5290.
+HuangHe
+4332.
+.
+.
+5123
+3202
+5036
+5254
+Ling
+Qaidam He Shan
+4472
+38°N
+36°N
+Shenge
+Dunde
+Ice Cap
+Q I L I AN+
+B
+A
+C
+500 km
+D
+100°E
+Fig. 1 Map of People’s
+Republic of China ( A) with the
+boundary of Qinghai Province.
+The white rectangular region B
+indicates an enlargement of
+northeastern Qinghai, where
+triangles indicate living tree-
+ring sites, the star indicates the
+site with archaeological wood,
+the closed circle indicates the
+meteorological station at
+Dulan, and the cross indicates
+the Dunde ice cap (Thompson
+et al. 1989). The white
+rectangular region C is area I of
+moisture indices of Gong and
+Hameed (1991), and the region
+D indicates an area of Shiyang
+River catchment (after Chen
+et al. 1999, with modiﬁcations)
+870 Sheppard et al.: Annual precipitation since 515 BC reconstructed from living and fossil juniper
+
+===== PAGE 3 =====
+
+roughly to the period from the fourth to the ninth cen-
+tury AD.
+Juniper wood was used in various ways within the
+tombs, including in parts of above-ground pyramid
+constructions, alternating with mud bricks (Xu 2002), as
+the main construction material for subterranean tomb
+chambers (block house type), or as layers of un-worked
+trunks covering the chambers. The huge quantity of
+tomb wood contrasts with the barren, dry steppe vege-
+tation surrounding the burial ground at present.
+2.2 Sampling
+In 1993, 50–60 living trees per site were increment cored.
+Selected trees were old but did not have outward signs of
+disturbance (e.g., abrasion scarring, cut branches). From
+each tree, two increment cores were collected along
+opposing radii that were approximately parallel to the
+slope contour.
+In 1999, numerous juniper trunks and wooden coﬃns
+from the tombs in the Reshui Valley, 20 km southeast of
+Dulan (Fig. 1), were sampled in the ﬁeld as well as in the
+storeroom of the Archeological Institute in Xining. The
+maximum diameter of the excavated trunks reached
+45 cm. Sampled trunks were well-preserved, but not
+every sample had the bark with the outermost ring.
+Altogether, 82 wood samples were collected, including
+cross sections and increment cores. Cross sections were
+collected from 21 trunks and six coﬃns, and increment
+cores were collected from trunks inside the tomb
+chambers. All the samples were packed in plastic for
+transporting to the laboratory.
+2.3 Data measurement and analysis
+The living-tree increment cores were air dried and glued
+into grooved sticks with the transverse surface facing up
+(Phipps 1985). Cores were sanded with successively ﬁner
+wood abrasives to expose ring details to the cellular level
+(Stokes and Smiley 1968). The collected cores from each
+site were crossdated by matching patterns of relatively
+wide and narrow rings to account for the possibility of
+ring-growth anomalies such as missing or false rings
+(Douglass 1941). Each of the two living-tree sites was
+crossdated by diﬀerent people to independently verify
+their dating. Year dates of formation were then assigned
+to all the rings back in time, beginning with the known
+year of 1993 for the outermost ring.
+The archaeological specimens were air dried and then
+cleaned with knife blades or polished with abrasives.
+Chalk was used to improve the contrast of the surfaces.
+For each cross section, the best radius without growth
+irregularities was selected for the analysis. Some of the
+increment cores had very narrow rings, making it
+impossible to clearly determine individual rings; these
+samples were excluded from further analysis. The
+archaeological collection was crossdated independently
+from the living-tree collection, and 45 samples were used
+Air temperature, °CPrecipitation, mm
+Jan Feb Mar Apr May Jun Jul Aug Sep Oc t Nov De c -15
+-10
+-5
+0
+5
+10
+15
+20
+MAT = 3°C (a)
+Coeff. var. (%)
+0
+10
+20
+30
+40
+50
+60
+40
+80
+120
+MAP = 188 mm(b)
+Jan Feb Mar Apr May Jun Jul Au g Sep Oc t Nov De c
+Fig. 2 Monthly a temperature
+and b precipitation climographs
+for Dulan, Qinghai Province.
+Error bars show the 95%
+conﬁdence interval around each
+monthly mean. The line for
+precipitation indicates the
+coeﬃcient of variation for each
+month
+Sheppard et al.: Annual precipitation since 515 BC reconstructed from living and fossil juniper 871
+
+===== PAGE 4 =====
+
+for the construction of the archaeological chronology
+from Dulan.
+Widths of all dated rings were measured to
+±0.01 mm and values were checked for dating and
+measurement errors using cross-correlation testing at
+multiple time lags (Program COFECHA, Holmes 1983;
+Grissino-Mayer 2001). The archaeological chronology
+and the Dulan living-tree chronology crossdated very
+strongly with one another (correlation r=+0.62), with
+an overlap of 642 years. This crossdating allowed cal-
+endar dates to be assigned to the archaeological chro-
+nology and identiﬁed a missing ring for AD 682 in the
+living-tree chronology from Dulan.
+Series-length growth trends of all the samples were
+removed by dividing measured values by ﬁtted values
+from modiﬁed negative-exponential curves or straight
+lines which were estimated using iterative least squares
+regression (Fritts 1976). This step resulted in dimen-
+sionless index series, which were averaged together into
+a standard chronology using a robust mean calculation
+(Cook 1985). No variance stabilization techniques were
+used during any of these steps. Because the two living-
+tree chronologies correlated strongly with one another
+and with the archaeological chronology, all three series
+were merged into a single chronology.
+The strongest climate–tree growth model was identi-
+ﬁed starting with correlations between the standard tree-
+ring chronology, and monthly temperature and precip-
+itation data from the nearby town of Dulan. Correla-
+tions were calculated on a monthly basis beginning with
+July of the year prior to ring growth and ending with
+December of the current year of ring growth. Various
+multimonth seasons of climate, the averages of temper-
+atures or totals of precipitation, were also tested. Based
+on these correlations, a reasonable and representative
+season of climate was chosen for reconstruction using
+the full chronology. Owing to the shortness of the
+meteorological record, the data were not split into sub-
+periods for separate calibration and veriﬁcation of the
+dendroclimatic model (Jacoby et al. 1999). Instead, the
+reconstruction equation was calibrated using the full
+period of meteorological data, and the regression model
+was veriﬁed using the press- R2 value (Montgomery and
+Peck 1992). Residuals of the ﬁnal model were checked
+for normality, correlation with predictors and predict-
+ands, and autocorrelation (Weisburg 1980).
+This reconstruction was compared with various
+combinations of atmospheric geopotential height data
+for the northeastern quarter-sphere to discern relation-
+ships between the climate of Qinghai and the synoptic-
+scale atmospheric features (Hirschboeck et al. 1996).
+The climate reconstruction was also compared with
+other records of climate from the region, including a
+precipitation record from Chinese historical documents
+(Gong and Hameed 1991) and a temperature record
+from d18O of the nearby Dunde ice cap (Thompson et al.
+1989) (Fig. 1). Finally, the reconstruction was compared
+with a time series of human occupation in the region
+(Chen et al. 1999).
+3 Results
+3.1 Chronologies
+The average age of Shenge samples is 862 years, with the
+earliest ring dating to AD 840 (Fig. 3a). The average age
+of Dulan samples is 683 years, with the earliest ring at
+Dulan dating to AD 159 from one sample of a remnant
+snag (Fig. 3b). Both chronologies have strong signal
+strength, with correlations between individual series and
+their respective chronologies averaging 0.6 or better.
+Both chronologies have typical autoregressive proper-
+ties, with ﬁrst-order autocorrelation coeﬃcients averag-
+ing +0.36. The living-tree chronologies correlate
+signiﬁcantly with one another ( r=+0.55) and also share
+decadal-scale variation, including periods of good
+growth in the 1300s, 1500s, late 1800s, and late 1900s as
+well as periods of poor growth in the late 1400s and
+centered on 1700. These similarities justiﬁed merging the
+series into a single living-tree chronology. The recent
+period of above-average growth corresponds well to
+other research showing increasing net primary produc-
+tivity in alpine vegetation types of western China since
+1982 (Fang et al. 2003).
+Archaeological tomb specimens are shorter in time
+span, with an average length of 374 years, but the entire
+length of the archaeological chronology is over
+1,300 years, ranging from 515 BC to AD 800 (Fig. 3c).
+The archaeological chronology expresses variation at the
+multidecadal frequencies as well as typical autoregres-
+sive properties. It correlates signiﬁcantly with the living-
+tree chronology ( r=+0.7), and after the merging of the
+living-tree and archaeological chronologies, the single
+regional chronology is just over 2,500 years long.
+Sample depth is high for most of the combined
+chronology, especially for 100 BC to AD 700 and again
+since AD 900 (Fig. 3d). For the combined chronology, a
+subsample signal strength (Wigley et al. 1984) of 85% of
+the fully replicated chronology is achieved with as few as
+nine samples, so periods with weak sample depth extend
+from 515 to 100 BC as well as from AD 700 to 900, and
+caution will be merited while interpreting the recon-
+structed climate of these periods of low sample depth.
+The sample depth of the Shenge living-tree chronology
+dips during the periods AD 1250–1270, 1475–1500, and
+1710–1730 due to suppressed growth where rings could
+not be conﬁdently crossdated in many trees. Indeed, the
+index values are quite low during those periods based on
+crossdated ring growth of other trees.
+3.2 Dendroclimatic modeling
+On the monthly scale, winter–spring precipitation cor-
+relates mostly positively with tree growth while winter–
+spring temperature correlates negatively (Fig. 4). For
+precipitation, the full water-year from previous July
+through current June correlates the strongest as a single
+872 Sheppard et al.: Annual precipitation since 515 BC reconstructed from living and fossil juniper
+
+===== PAGE 5 =====
+
+season with a value of +0.70. For temperature, April
+through June correlates the strongest as a single season
+with a value of /C00.42. These results combine to indicate
+that pre-growing season moisture availability is the most
+important factor limiting tree growth at these juniper
+stands, with precipitation of the entire year of previous
+July through current June being the critical weather
+variable aﬀecting soil moisture availability. This ﬁnding
+is consistent with other well-replicated juniper sites in
+the region (Zhang and Wu 1992), with sites farther away
+such as to the east in the Qinling Mountains (Wu 1994)
+and to the north in Mongolia (Jacoby et al. 1999), and
+0
+1
+2
+3
+-600 -400 -200 0 200 400 600 800
+(c)
+Dulan (fossil trees)
+AR(1) = +0.59
+Years
+Index of Tree Growth
+0
+1
+2
+800 1000 1200 1400 1600 1800 2000
+(a)
+Shenge (living trees)
+AR(1) = +0.29
+0
+1
+2
+0 800 1000 1200 1400 1600 1800 2000200 400 600
+(b)
+Dulan (living trees)
+AR(1) = +0.44
+Sample Depth (number of trees)
+0 800 1000 1200 1400 1600 1800 2000200 400 600
+0
+40
+80
+-600 -400 -200
+(d)
+Shenge (living trees)
+Dulan (living trees) 
+Dulan (fossil trees) 
+-600 -400 -200
+0 200 400 600-600 -400 -200
+1000 1200 1400 1600 1800 2000
+Index of Tree GrowthIndex of Tree Growth
+Fig. 3 Standard ring-width index chronologies from a Shenge and
+b Dulan living-tree sites and c the Dulan archaeological collection.
+d shows the sample depth series for all three collections. AR(1)
+refers to ﬁrst-order autocorrelation coeﬃcient. Smoothed lines are
+the 100-year cubic smoothing spline (Cook and Peters 1981)
+Sheppard et al.: Annual precipitation since 515 BC reconstructed from living and fossil juniper 873
+
+===== PAGE 6 =====
+
+with sites of juniper and pines in other semiarid sites
+(e.g., Schulman 1956; Grissino-Mayer et al. 1997). This
+full water-year precipitation model diﬀers from that re-
+ported by an independent dendroclimatic analysis of
+similar (although shorter in time) data from Dulan that
+concluded that the May–June precipitation was the main
+factor controlling juniper growth in the area, with a
+correlation value of +0.58 (Zhang et al. 2003).
+The precipitation period of July to the following June
+was chosen for reconstruction. The regression model
+accounts for 47.8% of the variance in July through June
+precipitation, which is very signiﬁcant ( p<0.001). The
+press-R2 value is also high at 42.8%. Both low- and
+high-frequency variations are modeled reasonably well
+(Fig. 5). Predicted values match actual values particu-
+larly well during the 1960s, though not so well as in the
+1980s. Years of low precipitation match better than
+those with high precipitation, which is often true in
+dendrochronological reconstructions of moisture avail-
+ability (Schulman 1956). Model residuals are reasonably
+normally distributed, show low autocorrelation
+(AR(1)=+0.20, with a nonsigniﬁcant Durbin–Watson
+statistic), and do not correlate with the predictor or the
+predictand. This model was deemed acceptable and ap-
+plied to the full chronology since 515 BC.
+Reconstructed values of annual precipitation vary
+mostly from 100 to 300 mm and thus are no diﬀerent
+from the modern instrumental record in Dulan (Fig. 6a).
+However, relatively dry years with below-average pre-
+cipitation occurred more frequently during the past than
+at present. Periods of relatively dry years occurred
+during 74–25 BC, AD 51–375, 426–500, 526–575, 626–
+700, 1100–1225, 1251–1325, 1451–1525, 1651–1750 and
+1801–1825. Periods with a relatively wet climate oc-
+curred during AD 376–425, 576–625, 951–1050, 1351–
+1375, 1551–1600 and the present.
+3.3 Synoptic circulation analysis
+During winter, the weather in Asia is dominated by an
+intense anticyclone over Siberia and Mongolia (Domro ¨ s
+and Peng 1988). At 3,000 m altitude, zonal westerlies
+prevail across eastern Asia (Trewartha 1981). Indeed,
+the average winter climatology for Qinghai as expressed
+by December through February geopotential heights of
+the 700 mb pressure zone shows an approximately zonal
+ﬂow for the northeastern quarter-sphere, with maximum
+westerly winds just west of Qinghai located at about
+40/C176N (Fig. 7a).
+-0.6
+-0.3
+0
+0.3
+0.6
+Jul-Jun
+Apr-Jun
+Correlation coefficient
+Index of tree growth and mean precipitation 
+Index of tree growth and mean temperature 
+Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
+Months, precedent year Months, current year
+Fig. 4 Monthly correlations
+using ring-width indices from
+the combined juniper
+chronology and meteorological
+data from Dulan (1955–1988)
+for precipitation ( black bars )
+and temperature ( gray bars ).
+The critical correlation value
+for n=30 and alpha = 0.05 is
+±0.30 (Rohlf and Sokal 1981)
+0
+50
+100
+150
+200
+250
+300
+1950 1955 1960 1965 1970 1975 1980 1985 1990 1995
+Actual July-June precipitation 
+Average actual July-June precipitation
+July-June P (mm)
+Years
+Predicted July-June precipitation 
+Fig. 5 Actual ( thick line ) and
+predicted ( thin line )
+precipitation for the season
+prior to July through current
+June. Horizontal dashed line
+indicates the mean value for the
+meteorological record
+874 Sheppard et al.: Annual precipitation since 515 BC reconstructed from living and fossil juniper
+
+===== PAGE 7 =====
+
+Most winter weather systems of the Qinghai Plateau
+occur in westerly troughs or ridges coming from central
+Asia (Yuan 1981). In the central, western provinces of
+China, winter rains are mainly frontal westerlies and are
+frequently associated with wave-depressions aloft in the
+atmosphere (Watts 1969). An important feature of the
+upper-level westerlies is the presence of troughs and
+fronts (Thompson 1951). The average circulation pat-
+tern for wet years shows that the maximum winds were
+shifted southward by about one degree of latitude, while
+the driest years show a shift northward by about one
+degree. The diﬀerence between atmospheric circulation
+for wet versus dry years shows high pressure over the
+Mediterranean and eastern Siberia, separated by low
+pressure over central Asia just west of Qinghai (Fig. 7b).
+Droughts lasting longer than one month are typically
+associated with anomalies of large-scale circulation
+(Wang et al. 1994). While planetary scale systems do not
+directly produce rain storms, they can inﬂuence precip-
+itation by changing important characteristics of synoptic
+systems (Wang et al. 1994). The upper-level (i.e. 700 mb
+level) westerly ﬂow rarely varies during winter, though
+the exact extent of the airﬂow varies somewhat each year
+(Thompson 1951). It appears that whatever interannual
+variation exists in the upper-level waveform at the 3,000-
+m height can alter winter precipitation over northeastern
+Qinghai and perhaps other semiarid regions of north-
+western and northern China. Accordingly, the complete
+yearly precipitation over Qinghai correlates directly with
+this atmospheric circulation pattern, showing positive
+correlations with high pressure zones and a negative
+correlation with the low pressure zone (Fig. 7c). Thus,
+the average zonal atmospheric circulation pattern is ei-
+ther shifted southward slightly and/or it becomes more
+meridional during wet years over Qinghai and vice versa.
+This synoptic climatology is similar to that of the
+semiarid American Southwest (Sheppard et al. 2002).
+3.4 Multiproxy comparison
+On the century scale, this dendrochronological recon-
+struction of moisture availability matches reasonably
+well since AD 1000 with a moisture index derived from
+historical documents (Gong and Hameed 1991). Com-
+mon periods of above-average moisture occurred during
+the late 1300s, AD 1551–1625, and 1850 to the present
+(Fig. 6a, b). Similarly, common periods of below-aver-
+age moisture occurred during AD 1100–1225, 1275–1325,
+1451–1525 and 1675–1750. Especially notable is the long
+period of declining moisture in both series from AD 1550
+to 1700. These two series do not match as well prior to
+AD 1000, which might be due to relatively few historical
+documents during that period (Gong and Hameed 1991)
+and/or relatively low sample depth for the archaeologi-
+cal chronology. The region covered by the moisture in-
+dex series (Region C in Fig. 1) receives 300–500 mm of
+rain per year, which is more than that for northeastern
+Qinghai but is still considered semiarid (Gong and
+Hameed 1991). Given that moisture indices recon-
+structed for that region show similar low-frequency
+variation to the precipitation reconstruction, perhaps
+synoptic-scale climatic features control winter precipi-
+tation similarly over both regions.
+In combination with the d18O temperature record
+(Fig. 6c) from the nearby Dunde ice cap (Thompson
+et al. 1989), which is well conﬁrmed by other recon-
+structions of temperature for China (Wang and Wang
+1990), major climatic periods can be identiﬁed. These
+two records often vary congruously. For example, the
+period AD 900 to 1100 was wet with increased warming,
+the 1100s were cool and dry, the late 1500s were warm
+and wet, the 1600s were cooler and dryer, and after 1825
+to the present the climate has been generally warm and
+wet (Fig. 6a, c). These two records varied inversely to
+each other from 1300 to the mid-1400s, which were cool
+and wet.
+Also of interest is comparing interannual variability
+in the tree-ring precipitation record and the ice core
+temperature record. A running standard deviation with
+a window length of 21 years (Grissino-Mayer et al.
+1997) was calculated from the dendrochronological
+reconstruction. As partial validation of this Qinghai
+series, the period of relatively decreased interannual
+variability in water-year precipitation during the mid- to
+late 1800s (Fig. 6d) corresponds to a similar ﬁnding for
+annual precipitation and for streamﬂow discharge for
+northeastern Mongolia (Pederson et al. 2001). Since AD
+900, above-average interannual variability in precipita-
+tion has coincided with warm periods (Fig. 7c, d).
+Conversely, below-average interannual variability in
+precipitation has coincided with cool periods, which is
+especially notable for the 1300s and 1400s. On the mil-
+lennial scale, both temperature and interannual vari-
+ability in water-year precipitation have been increasing
+since AD 1000. This direct association between tempera-
+ture and interannual variability in precipitation corre-
+sponds with other ﬁndings on rainfall variability across
+regional scales (McDonald 1956).
+As for the archaeological time period of this recon-
+struction, pollen and sedimentary records from Telmen
+Lake (48 /C17650¢N, 97 /C17620¢E, 1,789 m) in central Mongolia
+suggest an arid excursion dated to about 50 BC (Fowell
+et al. 2003), corresponding to the relatively dry interval
+in our Qinghai record (Fig. 6a). A dry period between
+AD 350 and 750 suggested by the pollen record also
+corresponds to the interval with predominantly dry
+years in Dulan. This correspondence is not perfect, as
+two short wet periods occurred around AD 400 and
+around AD 600. In general, however, hydrological re-
+gimes of western Qinghai and Central Mongolia are
+reasonably similar.
+Furthermore, approximately synchronous arid peri-
+ods are reported for sites located between Qinghai and
+Telmen Lake. For example, sedimentary records from
+Yiema Lake (39 /C17606¢N, 103 /C17640¢E) suggest a drought
+around AD 450 (Chen et al. 1999), and sedimentary re-
+cords from Eastern Juyanze Lake (41.89 N, 101.85E,
+Sheppard et al.: Annual precipitation since 515 BC reconstructed from living and fossil juniper 875
+
+===== PAGE 8 =====
+
+0
+40
+80
+21-yr standard deviation
+-600 -400 -200 0 200 400 600 800 1000 1200 1400 1600 1800 2000
+(d)
+Han Chinese 
+occupation
+(Tang Dynasty)
+Herdsmen
+occupation
+Han Chinese 
+Occupation 
+(Han Dynasty)
+Mongolian 
+occupation
+(Yuan 
+Dynasty)
+0
+20
+No. of people (x104) 
+-600 -400 -200 0 200 400 600 800 1000 1200 1400 1600 1800 2000
+40
+Recent (182 x 104 )
+Years
+(e)
+Tangut
+Han Chinese 
+occupation
+(Ming Dynasty)
+200
+300
+100
+July-June P (mm)
+-600 -400 -200 0 200 400 600 800 1000 1200 1400 1600 1800 2000
+(a)
+-13
+-11
+-9
+δ 18O (‰)
+-600 -400 -200 0 200 400 600 800 1000 1200 1400 1600 1800 2000
+(c)
+0
+4
+-600 -400 -200 0 200 400 600 800 1000 1200 1400 1600 1800 2000
+2
+Moisture Index
+(b)
+876 Sheppard et al.: Annual precipitation since 515 BC reconstructed from living and fossil juniper
+
+===== PAGE 9 =====
+
+892 m) in the Alashan Gobi, northwestern China, indi-
+cate drying after AD 320 (Herzschuh et al. 2004). Both
+these dry periods are indicated by the Qinghai precipi-
+tation reconstruction (Fig. 6a).
+4 Discussion: human interactions with climate variability
+4.1 Past
+Knowledge about human population density and land
+use in Qinghai area during the last 2,500 years is rela-
+tively sparse. The political history of Qinghai is marked
+by the frequently changing dominance of diﬀerent ethnic
+groups that were alien or neighbors to the Chinese. Not
+until 1720 did Qinghai become part of the Chinese em-
+pire. Prior to that time, it was of only episodic interest to
+central China because the environment was regarded as
+unsuitable for promoting permanent settlement.
+Qinghai ﬁrst came into the purview of Chinese his-
+toriography during the early part of the Han dynasty
+(202 BC– AD 23) when the Han inﬂuence extended
+westward. In Han documents, the native inhabitants of
+Qinghai were called Qiang and described as semino-
+madic herdsmen (Bielenstein 1995). It was generally as-
+sumed that ﬁeld cultivation was ﬁrst introduced to
+Qinghai by Han-Chinese peasants who settled around
+modern Xining, in the valley of the Huang He (Yellow
+River) and as far west as around the Qinghai Lake
+(Fig. 1). On the other hand, recent excavation of a late
+Bronze Age settlement in the vicinity of Xining has
+proved that the subsistence of settlers around 1000 BC
+was dominated by farming in which barley was the main
+crop (Xu et al. 2003).
+The ﬁrst wave of Chinese occupation was short-lived.
+By the second century AD, there were mass movements
+eastward bringing herdsmen from the mountains down
+into the western loess lands close to the Han capital of
+Chang’an (modern Xi’an). Between AD 2 and 140,
+approximately 70% of the Han-Chinese inhabitants left
+the territory of Qinghai (Bielenstein 1995) due to pres-
+sure from the Qiang, who ﬁlled the emptied areas. The
+same tendency and drastic decrease in the number of
+agrarians can be observed in the Shiyang River basin
+(Region D in Fig. 1, Fig. 6e). Tribes of herdsmen mi-
+grated into the western Chinese territories with so many
+people that they soon outnumbered the Chinese settlers
+there (Yu¨ 1995).
+After the later Han dynasty ended in AD 220, northern
+China split up into several independent, short-lived
+kingdoms of tribal origin. During the fourth century AD,
+the area around Qinghai Lake and the eastern part of
+the Qaidam Basin became the grazing territory of the
+Tuyuhun, a Tibetanized Xianbei people (Wechsler 1997;
+Wright 1997), who reigned until they were overthrown
+by the Tibetans by AD 680. The Tibetan kingdom of
+Tubo (Tufan) grew in power beginning in the ﬁrst half of
+the seventh century, and expanded its territory rapidly
+by mid-century. By destroying the Tuyuhun kingdom,
+the Tibetans became the immediate northwestern
+neighbors of the Chinese Tang Empire ( AD 618–907),
+persistently threatening trade routes (Twitchett and
+Wechsler 1997). The grave goods that were left by the
+robbers in Dulan (Xu 2002) demonstrate the enormous
+beneﬁt that the Tibetans earned from controlling long-
+distance trade. Military colonies and fortresses became
+part of the defensive system along the northwestern
+frontier for which local agricultural activities had to be
+intensiﬁed to sustain permanent military forces
+(Twitchett and Wechsler 1997). This policy was partly
+successful in the Gansu corridor and in the Shiyang
+River basin, resulting in the agrarian population growth
+(Fig. 6e).
+The remarkable Qiang mass-migration into the wes-
+tern Chinese territories (de Crespigny 1984) coincides
+with the reconstructed dry interval starting in the ﬁrst
+century AD and continuing until the end of fourth cen-
+tury when the Tuyuhun settled around Qinghai Lake. As
+the Qiang settled east of the Huang He during the ﬁrst
+century AD, pastoral tribes generally dominated the
+whole of northern China for about 350 years until the
+next central Chinese empire, the Sui dynasty, was
+founded in AD 581. Below-average precipitation during
+this period might have been one of the main factors in
+shifting cultural trends from Chinese-style peasant
+agriculture to a non-Chinese pastoral economy (de
+Crespigny 1984). During the relatively wet period be-
+tween AD 576 and 625 a strong Tibetan kingdom op-
+posed the Chinese Tang dynasty.
+In the seventh and eighth centuries, the territory of
+Qinghai belonged to the Tibetan kingdom, which limited
+the Chinese expansion. At that time (at least from AD 626
+to 700), the climate reconstruction suggests rather dry
+conditions.
+Our reconstruction suggests that the climate became
+more favorable for agriculture between the late 900s and
+AD 1100. At about that time, Chinese sources report that
+many of the formerly nomadic Uighurs became sedentary
+agriculturalists in the oasis of the Gansu corridor and
+Xinjiang (Twitchett 1997). The population peak in the
+Shiyang River area at AD 1000 (Fig. 6e) was associated
+with intensiﬁed irrigation and land use under the rule of
+the Tangut dynasty Xixia ( AD 1038–1227), which con-
+trolled the steppes between the Ordos Plateau and the
+Tarim Basin (Franke and Twitchett 1994). Sedentary
+populations of the Shiyang (RegionD in Fig. 1) decreased
+drastically in the twelfth century, when reconstructed
+Fig. 6 a Reconstructed precipitation July through June (this
+study), b moisture indices from Chinese historical documents (area
+I of Gong and Hameed 1991, data obtained from the Carbon
+Dioxide Information Analysis Center), c d18O isotope variation
+from ice layers at the Dunde Ice Cap (Thompson et al. 1989), d a
+21-year running standard deviation of reconstructed precipitation
+from Qinghai junipers (this study), and e the number of citizens
+belonging to the central Chinese state (after Chen et al. 1999) in the
+Shiyang River catchment area (region D in Fig. 1). The smoothed
+lines are 100-year cubic smoothing splines
+b
+Sheppard et al.: Annual precipitation since 515 BC reconstructed from living and fossil juniper 877
+
+===== PAGE 10 =====
+
+precipitation in Dulan was low. Generally dry conditions
+continued during the time of Mongolian occupation of the
+Yuan dynasty ( AD 1279–1368). Population growth in the
+Gansu corridor and in the Shiyang River basin is regis-
+tered at about AD 1400 during the Chinese Ming dynasty
+(AD 1368–1644). This rise is synchronous with the pre-
+cipitation increase reconstructed in Dulan (Fig. 6a) and in
+the region C (Fig. 6b, Gong and Hameed 1991). Whether
+early human migrations and associated changes in land
+use in the region were caused by the climatic changes or
+were simply coincidental to climatic changes remains an
+unsolved question at the moment. The answer requires
+(a)
+(b)
+(c)
+Fig. 7 Synoptic climatology of
+the northeastern quarter-
+sphere: a average geopotential
+heights of the 700-mb zone for
+the winter season (December
+through February), b
+geopotential height diﬀerences
+between the ﬁve wettest years
+minus the ﬁve driest years of the
+meteorological record, and c
+correlation ﬁeld between the
+reconstructed winter
+precipitation series and 700-mb
+geopotential heights. Images
+provided by the NOAA-CIRES
+Climate Diagnostics Center,
+Boulder Colorado from their
+Web site at http://
+www.cdc.noaa.gov/ (Kalnay
+et al. 1996). The Qinghai tree-
+ring sites are marked with a star
+878 Sheppard et al.: Annual precipitation since 515 BC reconstructed from living and fossil juniper
+
+===== PAGE 11 =====
+
+additional historical-environmental study, which is the
+objective of future work.
+4.2 Future
+Given the direct association between temperature and
+interannual variability in precipitation found in this study
+and the prediction of increased warming on a global scale
+throughout the twenty-ﬁrst century (IPCC 2001), inter-
+annual precipitation variability for Qinghai can be pro-
+jected to increase in the future. Indeed, it has been
+concluded independently that increased annual variabil-
+ity in precipitation is generally ‘‘very likely’’ (IPCC 2001 p.
+13). While the annual mean for precipitation might also
+continue increasing for Qinghai throughout the twenty-
+ﬁrst century, the increased variability might be especially
+diﬃcult for human societies to adjust to. With a consid-
+erable surface area above 3,000 m elevation, there are no
+good opportunities for large-scale water storage strategies
+to help smooth out annual variability in rainfall. Conse-
+quently, Qinghai residents might face increased occur-
+rences of both ﬂoods and droughts in the near future,
+perhaps causing hardship to urban and agricultural sys-
+tems (Collier and Webb 2002).
+5 Conclusions
+Junipers growing in semiarid sites of the northeastern
+Qinghai are useful for reconstructing soil moisture
+availability for that area going back for more than two
+millennia. The reconstructed moisture availability rep-
+resents primarily the complete yearly precipitation prior
+to tree growth each year. This climatic feature has varied
+dramatically on multiple time scales over the last
+2,500 years, with Qinghai currently in a relatively wet
+period. On the decadal scale, variability in precipitation
+appears to correlate directly with warm and cold spells
+as reconstructed from Dunde ice core d18O data.
+Northeastern Qinghai is currently in a warm phase,
+suggesting that the relatively wet period with high in-
+terannual variability occurring at present might continue
+into the future.
+Acknowledgements We thank Chaz Tompkins, John C. King, Xing
+Gao, Gregg Garﬁn, ﬁeld workers of the Lanzhou Institute of
+Glaciology and Geocryology; Xu Xinguo, director of the Archae-
+ological Institute of Qinghai Province; Wang Shuzhi, Archaeo-
+logical Institute of the Chinese Academy of Social Sciences; Liu
+Xiaohe and Xiao Yongming, Xining; and Hermann Parzinger,
+president of the German Archaeological Institute, Berlin, for sup-
+porting this project in various ways. The living-tree part of this
+research was funded by the U.S. National Science Foundation
+(ATM-9203944) and the National Geographic Society. The
+archaeological part of this research was funded by the German
+Archaeological Institute. The research fellowship of P. Tarasov was
+granted by the Alexander von Humboldt Foundation. The mea-
+surement data from this research are now archived in the Inter-
+national Tree-Ring Data Bank (Grissino-Mayer and Fritts 1997).
+We thank the two anonymous reviewers for their critical and
+valuable comments.
+References
+Bielenstein H (1995) Wang Mang, the restoration of the Han dy-
+nasty, and later Han. In: Twitchett D, Loewe M (eds) The
+Cambridge history of China, vol 1: The Ch’in and Han empires,
+221 B.C.–A.D. 220. Cambridge University Press, New York, pp
+223–290
+Bradley RS (1985) Quaternary paleoclimatology: methods of pa-
+leoclimatic reconstruction. Allen and Unwin, Boston
+Bradley RS (ed) (1989) Global changes in the past. Papers arising
+from the 1989 symposium on global change Inst. UCAR/oﬃce
+for interdisciplinary earth studies boulder, Colorado
+Bradley RS, Diaz HF, Jones PD, Kelly PM (1987) Secular ﬂuctu-
+ations of temperature over Northern Hemisphere land areas
+and mainland China since the mid-19th century. In: Ye D, Fu
+C, Chao J, Yoshino M (eds) The climate of China and global
+climate. China Ocean Press, Beijing, pp 76–87
+Bra¨ uning A (1994) Dendrochronology for the last 1400 years in
+eastern Tibet. Geo J 34:75–95
+Bra¨ uning A (1999) Dendroclimatological potential of drought-
+sensitive tree stands in southern Tibet for the reconstruction of
+monsoonal activity. IAWA J 20:325–338
+Bra¨ uning A (2001) Climate history of the Tibetan Plateau during
+the last 1000 years derived from a network of juniper chro-
+nologies. Dendrochronologia 19(1):127–137
+Bra¨ uning A (2003) Climatic changes on the Tibetan Plateau during
+the last 2000 years derived from tree-ring studies. Berliner
+Pala¨ obiologische Abhandlungen 2:22–25
+Briﬀa KR, Osborn TJ (1999) Seeing the wood from the trees.
+Science 284:926–927
+Chen F-H, Shi Q, Wang J-M (1999) Environmental changes doc-
+umented by sedimentation of Lake Yiema in arid China since
+the Late Glaciation. J Paleolimnol 22:159–169
+Collier M, Webb RH (2002) Floods, droughts, and climate change.
+University of Arizona Press, Tucson
+Cook ER (1985) A time series analysis approach to tree-ring
+standardization. Ph.D. Dissertation, University of Arizona
+Cook ER, Kairiukstis LA (1990) Methods of dendrochronology:
+application in the environmental science. Kluwer, Dordrecht
+Cook ER, Peters K (1981) The smoothing spline: a new approach
+to standardizing forest interior tree-ring width series for den-
+droclimatic studies. Tree Ring Bull 41:45–53
+De Crespigny R (1984) Northern frontiers: the policies and strategy
+of the later Han Empire. Australian National University Press,
+Canberra
+Domro¨ s M, Peng G (1988) The climate of China. Springer, Berlin
+Heidelberg New York
+Douglass AE (1941) Crossdating in dendrochronology. J For
+39:825–831
+Fang J, Piao S, Field CB, Pan Y, Guo Q, Zhou L, Peng C, Tao S
+(2003) Increasing net primary production in China from 1982 to
+1999. Front Ecol Environ 1:293–297
+Fowell S, Hansen B, Peck J, Khosbayar P, Ganbold E (2003) Mid
+to late Holocene paleoclimate evolution of the Lake Telmen
+Basin, north central Mongolia, based on palynological data. Q
+Res 59:353–363
+Franke H, Twitchett D (eds) (1994) The Cambridge history of
+China, vol 6: Alien regimes and border states. Cambridge
+University Press, New York, pp 907–1368
+Fritts HC (1976) Tree rings and climate. Academic, New York
+Gao YX, Li C (1980) Inﬂuences of Qinghai-Xizang Plateau on
+seasonal variation of general atmospheric circulation. In: Liu D
+(ed) Geological and ecological studies of Qinghai-Xizang Pla-
+teau: proceedings of symposium on Qinghai-Xizang (Tibet)
+Plateau (Beijing, China). Science, Beijing, pp 1477–1484
+Gao Y, Tang M, Luo S, Shen Z, Li C (1981) Some aspects of recent
+research on the Qinghai-Xizang plateau meteorology. Bull Am
+Meteorol Soc 62:31–35
+Gong G, Hameed S (1991) The variation of moisture conditions in
+China during the last 2,000 years. Int J Clim 11:271–283
+Sheppard et al.: Annual precipitation since 515 BC reconstructed from living and fossil juniper 879
+
+===== PAGE 12 =====
+
+Grissino-Mayer HD (2001) Evaluating crossdating accuracy: a
+manual and tutorial for the computer program COFECHA.
+Tree Ring Res 57(2):205–221
+Grissino-Mayer HD, Fritts HC (1997) The International Tree-Ring
+Data Bank: an enhanced global database serving the global
+scientiﬁc community. Holocene 7:235–238
+Grissino-Mayer HD, Swetnam TW, Adams RK (1997) The rare
+old-aged conifers of El Malpais—their role in understanding
+climatic change in the American Southwest. In: Mabery K (ed)
+Natural history of El Malpais national monument, vol 156.
+New Mexico Bureau of Mines and Mineral Resources Bulletin,
+pp 155–161
+He H, McGinnis J, Song Z, Yanai M (1987) On the onset of Asian
+summer monsoon in 1979 and the eﬀect of the Tibetan plateau.
+Mon Weath Rev 115:1966–1995
+Herzschuh U, Tarasov P, Wu ¨ nnemann B, Hartmann K (2004)
+Holocene vegetation and climate of the Alashan Plateau, NW
+China, reconstructed from pollen data. Palaeogeogr Palaeocli-
+matol Palaeoecol 211(1–2):1–17
+Hirschboeck KK, Ni F, Wood ML, Woodhouse CA (1996) Syn-
+optic dendroclimatology: overview and outlook. In: Dean JS,
+Meko DM, Swetnam TW (eds) Tree rings, environment, and
+humanity, pp 205–223
+Holmes RL (1983) Computer-assisted quality control in tree-ring
+dating and measurement. Tree Ring Bull 43:69–77
+Hughes MK, Wu X, Shao X, Garﬁn GM (1994) A preliminary
+reconstruction of rainfall in north-central China since A.D.
+1600 from tree-ring density and width. Q Res 42(1):88–99
+IPCC (Intergovernmental Panel on Climate Change) (2001) Cli-
+mate change 2001: the scientiﬁc basis. Cambridge University
+Press, Cambridge
+Jacoby G, D’Arrigo RD, Pederson N, Buckley B, Dugarjav C,
+Mijiddorj R (1999) Temperature and precipitation in Mongolia
+based on dendroclimatic investigations. IAWA J 20:339–350
+Kalnay E et al (1996) The NCEP/NCAR reanalysis 40-year project.
+Bull Am Meteorol Soc 77:437–471
+Lau KM, Li MT (1984) The monsoon of east Asia and its global
+associations—a survey. Bull Am Meteorol Soc 65:114–125
+Lin Z, Wu X (1981) Climatic classiﬁcation of Qinghai-Xizang
+Plateau. In: Liu D (ed) Geological and ecological studies of
+Qinghai-Xizang Plateau: proceedings of symposium on Qing-
+hai-Xizang (Tibet) Plateau (Beijing, China). Science, Beijing, pp
+1575–1580
+Lin Z, Wu X (1987) Some features of climatic ﬂuctuation over the
+Qinghai-Xizang plateau. In: Ye D, Fu C, Chao J, Yoshino M
+(eds) The climate of China and global climate. China Ocean
+Press, Beijing, pp 116–123
+McDonald JE (1956) Variability of precipitation in an arid region:
+a survey of characteristics for Arizona. University of Arizona,
+Institute of Atmospheric Physics, Technical Reports on the
+Meteorology and Climatology of Arizona, No. 1
+Montgomery DC, Peck EA (1992) Introduction to linear regression
+analysis, 2nd edn. Wiley, New York
+Pederson N, Jacoby GC, D’Arrigo RD, Cook ER, Buckley BM
+(2001) Hydrometeorological reconstructions for northeastern
+Mongolia derived from tree rings: 1651–1995. J Climatol
+14:872–881
+Phipps RL (1985) Collecting, preparing, crossdating, and measur-
+ing tree increment cores. U.S. Geological Survey Water-Re-
+sources Investigations Report 85-4148
+Richardson SD (1990) Forests and forestry in China. Island Press,
+Washington
+Rohlf FJ, Sokal RR (1981) Statistical tables. WH Freeman, San
+Francisco
+Schulman E (1956) Dendroclimatic changes in semiarid America.
+University of Arizona Press, Tucson
+Schweingruber FH (1996) Tree-rings and environment: dendroe-
+cology. Paul Haupt, Bern
+Sheppard PR, Comrie AC, Angersbach K, Packin GD, Hughes MK
+(2002) The climate of the Southwest. Clim Res 21(3):239–258
+Stokes MA, Smiley TL (1968) An introduction to tree-ring dating.
+Chicago University Press, Chicago
+Thompson BW (1951) An essay on the general circulation of the
+atmosphere over South-East Asia and the West Paciﬁc. Q J Roy
+Meteorol Soc 77:569–597
+Thompson LG, Mosley-Thompson E, Davis ME, Bolzan JF, Dai
+J, Yao T, Gundestrup N, Wu X, Klein L, Xie Z (1989) Holo-
+cene-late Pleistocene climatic ice core records from Qinghai-
+Tibetan plateau. Science 246:474–477
+Thompson LG, Mosley-Thompson E, Davis M, Lin PN, Yao T,
+Dyurgerov M, Dai J (1993) ‘‘Recent warming’’: ice core evi-
+dence from tropical ice cores with emphasis on central Asia.
+Global Plan Change 7:145–156
+Trewartha GT (1981) The earth’s problem climates. Wisconsin
+University Press, Madison
+Twitchett D (1997) Introduction. In: Twitchett D, Fairbank JK
+(eds) The Cambridge history of China, vol 3: Sui and T’ang
+China, 586–906, Part I. Cambridge University Press, New
+York, pp 1–47
+Twitchett D, Wechsler HJ (1997) Kao-tsung (reign 649–83) and the
+empress Wu: the inheritor and the usurper. In: Twitchett D,
+Fairbank JK (eds) The Cambridge history of China, vol 3. Sui
+and T’ang China, 586–906, Part I. Cambridge University Press,
+New York, pp 242–289
+Wagner M, Heussner K-U, Wang S (2002) Die neue dendrochro-
+nologische Standardkurve fu¨ r Qinghai, NW China (515 BC bis
+heute). Terra Nostra 6:401–404
+Wang S, Wang R (1990) Seasonal and annual temperature variations
+since 1470 AD in East China. Acta Meteorol Sin 4(4):428–439
+Wang X, Corte-Real J, Zhang X (1994) Large-scale circulation
+regimes and precipitation anomalies over China. J Meteorol
+Soc Jpn 72:841–857
+Watts IEM (1969) Climates of China and Korea. In: Arakawa H
+(ed) Climates of northern and eastern Asia. Elsevier, Amster-
+dam, pp 1–117
+Wechsler HJ (1997) T’ai-tsung (reign 626–49) the consolidator. In:
+Twitchett D, Fairbank JK (eds) The Cambridge history of
+China, vol 3. Sui and T’ang China, 586–906, Part I. Cambridge
+University Press, New York, pp 188–241
+Weisburg S (1980) Applied linear regression. Wiley, New York
+Wigley TML, Briﬀa KR, Jones PD (1984) On the average value of
+correlated time series, with applications in dendroclimatology
+and hydrometeorology. J Clim Appl Meteoro 23:201–213
+Wilkinson E (2000) Chinese history, a manual. Harvard-Yenching
+institute monograph series 52. Harvard University Press, London
+Wright AF (1997) The Sui dynasty (581–617). In: Twitchett D,
+Fairbank JK (eds) The Cambridge history of China, vol 3. Sui
+and T’ang China, 586–906, Part I. Cambridge University Press,
+New York, pp 48–149
+Wu X (1992) Dendroclimatic studies in China. In: Bradley RS,
+Jones PD (eds) Climate since AD 1500. Routledge Press,
+London, pp 432–445
+Wu X (1994) Tree-ring with chronologies and their response to
+climate in the Qinling Mountains, China. Terr Atmos Ocean Sci
+5:272–365
+Wu X, Zhan X (1991) Tree-ring width and climatic change in
+China. Quatern Sci Rev 10:545–549
+Wu X, Cheng Z, Sun L (1987) Status of dendrochronological work
+in China. Dendrochronologia 5:127–133
+Xu XG (2002) Zhongguo Qinghai sheng Dulan Tubo muqun de
+faxian, fajue yu yanjiu [Discovery, excavation and study of Tubo
+tombs in Dulan, Qinghai Province, China]. Silk Roadology 14,
+Studies of the Silk Road in Qinghai Province, China, pp 212–225
+Xu XG, Zhao F (1996) A preliminary study of the silk textiles
+excavated at Dulan. China Archaeology Art Digest 1(4):13–34
+Xu XG, Wang W, Wagner M, Heussner K-U, Tarasov PE, Grieß
+B, Niu SS, Song JN, Xiao YM, Cai LH (2003) Results of the
+ﬁrst archaeological excavation and environmental survey at
+Fengtai, Qinghai Province, PR China, in 2001. Eurasia Antiqua
+9:85–111
+Yu¨ Y (1995) Han foreign relations. In: Twitchett D, Loewe M (eds)
+The Cambridge history of China, vol 1. The Ch’in and Han
+Empires, 221 B.C.– A.D. 220. Cambridge University Press,
+New York, pp 377–462
+880 Sheppard et al.: Annual precipitation since 515 BC reconstructed from living and fossil juniper
+
+===== PAGE 13 =====
+
+Yuan F (1981) Characteristics of weather systems of Qinghai-
+Xizang Plateau. In: Liu D (ed) Geological and ecological
+studies of Qinghai-Xizang Plateau: proceedings of symposium
+on Qinghai-Xizang (Tibet) Plateau (Beijing, China). Science
+Press, Beijing, pp 1569–1574
+Yuan Y (2003) Estimating annual precipitation in the period of
+glacier advance from tree-rings for the north slope of the middle
+Tianshan Mountains. Berliner Pala¨ obiologische Abhandlungen
+2:134
+Zhang Z, Wu X (1992) Utilizing two Qinghai tree-ring chronolo-
+gies to reconstruct and analyze local historical precipitation.
+Quart J Appl Meteorol 3:61–69 (Chinese)
+Zhang QB, Cheng GD, Yao TD, Kang XC, Huang JG (2003) A
+2,326-year tree-ring record of climate variability on the north-
+eastern Qinghai-Tibetan Plateau. Geophys Res Lett 30(14):
+DOI 10.1029/2003GL017425
+Zhao S (1986) Physical geography of China. Wiley, New York
+Zheng S, Wu X, Lin Z (1982) Asia. In: Hughes MK, Kelly PM,
+Pilcher JR, LaMarche VC (eds) Climate from tree rings.
+Cambridge University Press, Cambridge, pp 155–157
+Zou J (1987) The inﬂuence of plateau on the climate over China.
+In: Ye D, Fu C, Chao J, Yoshino M (eds) The climate of China
+and global climate. Ocean Press, Beijing, pp 345–346
+Sheppard et al.: Annual precipitation since 515 BC reconstructed from living and fossil juniper 881
